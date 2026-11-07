@@ -1,0 +1,5 @@
+Kazakov A.B. Engineer 10 200000
+Ibrayev S.T. Technician 5 150000
+Mukashev M.N. Manager 12 300000
+Sadykova L.K. Engineer 7 220000
+Omarov D.E. Technician 15 180000
